@@ -1,0 +1,10 @@
+config.py
+.idea
+*.pyc
+cached
+douban_image
+zhihu_cached
+douban_cached
+shiguang_cached
+shiguang_image
+log.txt
